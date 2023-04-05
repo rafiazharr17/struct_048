@@ -34,4 +34,5 @@ int main() {
 	cout << "\nDesa = " << mhs.Alamat.Desa;
 	cout << "\nKota = " << mhs.Alamat.Kota;
 	cout << "\nUmur = " << mhs.Umur;
+
 }
