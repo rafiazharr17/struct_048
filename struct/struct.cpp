@@ -25,4 +25,5 @@ int main() {
 	cout << "\nNama = " << mhs.Nama;
 	cout << "\nAlamat = " << mhs.Alamat;
 	cout << "\nUmur = " << mhs.Umur;
+
 }
